@@ -1,3 +1,9 @@
+---
+title: Storytelling graphique
+description: Méthode pour obtenir un rendu graphique sur un projet / une thématique
+image_url: https://github.com/cpcoop/animer_ateliers/blob/master/representer_visuellement_idees/storytelling_graphique.jpg?raw=true
+---
+
 # Storytelling graphique 
 
 ## En une phrase
