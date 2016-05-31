@@ -1,5 +1,5 @@
 ---
-title: La facilitation graphique: introduction
+title: Introduction à la facilitation graphique
 description: La facilitatrice Julie Boiveau nous introduit la facilitation graphique et comment s'en servir.
 image_url: https://github.com/cpcoop/animer_ateliers/blob/master/representer_visuellement_idees/facilitation_graphique_julie.jpg?raw=true
 ---
