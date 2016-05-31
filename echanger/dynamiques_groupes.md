@@ -5,4 +5,6 @@ image_url: https://github.com/cpcoop/animer_ateliers/blob/master/echanger/dynami
 ---
 # Choisir le bon format d'échanges
 
-![dynamiques_groupes](https://github.com/cpcoop/animer_ateliers/blob/master/echanger/dynamiques_groupes.png?raw=true
+![dynamiques_groupes](https://github.com/cpcoop/animer_ateliers/blob/master/echanger/dynamiques_groupes1.png?raw=true)
+
+> En cours d'écriture
