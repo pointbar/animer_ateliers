@@ -1,7 +1,7 @@
 ---
 title: L'investigation appréciative, ou comment se baser sur les forces
 description: Méthode génératrice de vision sur la base des forces/réussites passées
-image_url: https://github.com/cpcoop/animer_ateliers/blob/master/focaliser/investigationappreciative.jpg?raw=true
+image_url: https://github.com/cpcoop/animer_ateliers/blob/master/echanger/investigationappreciative.jpg?raw=true
 ---
 
 #L'investigation appréciative
