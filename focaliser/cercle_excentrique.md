@@ -1,3 +1,9 @@
+---
+title: Cercle excentrique
+description: Impliquer un grand groupe dans la discussion d'un plus petit groupe. Idéal pour favoriser l'écoute.
+image_url: https://github.com/cpcoop/animer_ateliers/blob/master/focaliser/cercle_excentrique.jpg?raw=true
+---
+
 # Cercle excentrique / Fish Bowl
 
 ## En une phrase
