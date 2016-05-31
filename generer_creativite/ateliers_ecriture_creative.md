@@ -1,25 +1,31 @@
-# Ateliers d'écriture créative
+# Ateliers d'Ã©criture crÃ©ative
 
-> *Se placer soi-même dans une démarche ludique...*
+> *Se placer soi-mÃªme dans une dÃ©marche ludique...*
 
 ## *"Les 5 premiers mots"*
 
-**Principe :** s'échauffer, préparer son esprit à la créativité
-**Matériel :** feuille, crayon
-**Nombre de participants :** à partir de 2
+**Principe :** s'Ã©chauffer, prÃ©parer son esprit Ã  la crÃ©ativitÃ©
+
+**MatÃ©riel :** feuille, crayon
+
+**Nombre de participants :** Ã  partir de 2
+
 **Temps :** 10 minutes
-**Démarche :**
-* Ecrire, les 5 premiers mots qui viennent à l'esprit, sans filtrer !
-* Confier la feuille à son voisin : pendant 3 minutes, s'inspirer des mots présents pour en produire 5 nouveaux.
-* Récupérer sa feuille et produire encore 5 mots à partir de ses propres mots.
-* Lire à voix haute le fruit des écritures volages de manière inspirée.
+
+**DÃ©marche :**
+* Ecrire, les 5 premiers mots qui viennent Ã  l'esprit, sans filtrer !
+* Confier la feuille Ã  son voisin : pendant 3 minutes, s'inspirer des mots prÃ©sents pour en produire 5 nouveaux.
+* RÃ©cupÃ©rer sa feuille et produire encore 5 mots Ã  partir de ses propres mots.
+* Lire Ã  voix haute le fruit des Ã©critures volages de maniÃ¨re inspirÃ©e.
 
 ## *"L'incipit"*
 
-**Principe :** proposer une phrase pour débuter l'écriture
-**Matériel :** feuille, crayon
-**Nombre de participants :** à partir de 1
-**Temps :** 10 minutes
-**Démarche :** S'inspirer de l'incipit et... écrire...
+**Principe :** proposer une phrase pour dÃ©buter l'Ã©criture
 
-*"Ah, encore une réunion qui s'éternise !"*
+**MatÃ©riel :** feuille, crayon
+
+**Nombre de participants :** Ã  partir de 1
+
+**Temps :** 10 minutes
+
+**DÃ©marche :** S'inspirer de l'incipit et... Ã©crire...
