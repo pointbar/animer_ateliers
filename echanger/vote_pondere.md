@@ -1,7 +1,7 @@
 ---
 title: Vote pondéré, ou rendre compte de la diversité
 description: Démonstrations de l'utilisation du vote pondéré.
-image_url: https://github.com/cpcoop/animer_ateliers/blob/master/focaliser/ponderation.jpg?raw=true
+image_url: https://github.com/cpcoop/animer_ateliers/blob/master/echanger/ponderation.jpg?raw=true
 ---
 
 # Vote pondéré
