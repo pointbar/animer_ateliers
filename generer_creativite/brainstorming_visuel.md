@@ -1,3 +1,9 @@
+---
+title: Brainstorming visuel
+description: Le brainstorming visuel permet de générer collectivement des idées en silence, grâce à un support visuel.
+image_url: https://github.com/cpcoop/animer_ateliers/blob/master/generer_creativite/brainstorming_visuel.jpg?raw=true
+---
+
 # Brainstorming visuel
 
 > *Créativité visuelle et silencieuse...*
