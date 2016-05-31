@@ -1,19 +1,29 @@
 # Brainstorming visuel
 
-> *Créativité visuelle et silencieuse...*
+> *CrÃ©ativitÃ© visuelle et silencieuse...*
 
-**Principe :** générer des idées, collectivement, avec support visuel, en silence
-**Matériel :** support, post-its, feutres
-**Nombre de participants :** à partir de 3
-**Temps :** 30 à 45 minutes
-**Utilisation :** programme d'activités (animations, formations...)
+**Principe :** gÃ©nÃ©rer des idÃ©es, collectivement, avec support visuel, en silence
 
-**Démarche :**
-1. L'animateur énonce le problème à résoudre et propose des pistes principales de réflexions correspondant à différentes couleurs de post-its.
-2. Les participants observent les différentes catégories et colle petit à petit des post-its avec les idées que leur inspirent ces catégories.
+**MatÃ©riel :** support, post-its, feutres
+
+**Nombre de participants :** Ã  partir de 3
+
+**Temps :** 30 Ã  45 minutes
+
+**Utilisation :** programme d'activitÃ©s (animations, formations...)
+
+**DÃ©marche :**
+
+1. L'animateur Ã©nonce le problÃ¨me Ã  rÃ©soudre et propose des pistes principales de rÃ©flexions correspondant Ã  diffÃ©rentes couleurs de post-its.
+
+2. Les participants observent les diffÃ©rentes catÃ©gories et colle petit Ã  petit des post-its avec les idÃ©es que leur inspirent ces catÃ©gories.
+
 3. Pendant que les participants collent les uns les autres (sans ordre ni contraintes) des post-its, l'animateur les regroupe.
-4. De temps en temps, l'animateur rompt le silence et commente les regroupements réalisés ainsi que les idées énoncées.
-5. A un temps donné, les participants commentent les idées trouvées, questionnent les auteurs et de nouveaux regroupements sont effectués.
-6. A la fin du temps imparti, l'animateur synthétise l'ensemble des idées et catégories et propose au groupe de nouvelles actions (hiérarchisation, réflexions, tansmission, nouvelles réunions...).
 
-**Astuces créatives :** penser par analogie (associations d'idées), par opposition, par amplification, par projection.
+4. De temps en temps, l'animateur rompt le silence et commente les regroupements rÃ©alisÃ©s ainsi que les idÃ©es Ã©noncÃ©es.
+
+5. A un temps donnÃ©, les participants commentent les idÃ©es trouvÃ©es, questionnent les auteurs et de nouveaux regroupements sont effectuÃ©s.
+
+6. A la fin du temps imparti, l'animateur synthÃ©tise l'ensemble des idÃ©es et catÃ©gories et propose au groupe de nouvelles actions (hiÃ©rarchisation, rÃ©flexions, tansmission, nouvelles rÃ©unions...).
+
+**Astuces crÃ©atives :** penser par analogie (associations d'idÃ©es), par opposition, par amplification, par projection.
