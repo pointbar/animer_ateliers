@@ -1,3 +1,9 @@
+---
+title: Organiser des camps ouverts
+description: Beaucoup d'échanges de qualité se font lors des temps informels. Pourquoi ne pas organiser un camp ouvert sur plusieurs jours?
+image_url: https://github.com/cpcoop/animer_ateliers/blob/master/soutenir_porteurs_projets/camp-ouvert.jpg?raw=true
+---
+
 # Camp ouvert/coworking porteurs de projets "favoriser l'engagement citoyen" - région Nantaise, du 17 au  21 janvier 2016
 
 Les camps ouverts sont des formats de coworking pour *prendre du recul sur des projets nous avons lancé ou souhaiterions lancer*. La présence d'un groupe travaillant sur des thématiques similaires nous invite à approfondir nos pratiques et notre vision. Les camps ouverts sont régis autour d'une charte. Précédent camp: [île d'Yeu, octobre 2015](https://github.com/WolffThomas/perles_gestion_projets/blob/master/contributions/passe/Camp_ouvert_oct15.md). Prochain camp: "favoriser l'engagement citoyen, janvier 2015, région Nantaise". 
