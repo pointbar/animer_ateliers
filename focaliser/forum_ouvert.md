@@ -1,12 +1,8 @@
 ---
-published: false
-title: Contribution multibao
-description: "Le forum ouvert est une approche participative basée sur l'émulation."
-tags: 
-  - Collaboration
-author: FNH
+title: Forum Ouvert
+description: Explicitation formelle des différentes étapes pour animer un Forum Ouvert
+image_url: https://github.com/cpcoop/animer_ateliers/blob/master/focaliser/forum_ouvert.jpg?raw=true
 ---
-
 
 # Forum ouvert
 
