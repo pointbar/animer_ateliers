@@ -1,7 +1,7 @@
 ---
 title: World café, ou "café du monde"
 description: Le world cafe permet à un groupe de monter en intelligence collective sur une thématique
-image_url: https://github.com/cpcoop/animer_ateliers/blob/master/focaliser/world_cafe.jpg?raw=true
+image_url: https://github.com/cpcoop/animer_ateliers/blob/master/echanger/world_cafe.jpg?raw=true
 ---
 
 # World café, café intelligent
