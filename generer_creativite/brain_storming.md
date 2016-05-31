@@ -1,7 +1,7 @@
 ---
 title: Règles du brainstorming
 description: Comment réaliser un bon brainstorming?
-image_url: https://github.com/cpcoop/animer_ateliers/blob/master/ouvrir_idees/brainstorming.jpg?raw=true
+image_url: https://github.com/cpcoop/animer_ateliers/blob/master/generer_creativite/brainstorming.jpg?raw=true
 ---
 
 # Brainstorming
