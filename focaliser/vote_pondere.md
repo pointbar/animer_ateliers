@@ -1,6 +1,10 @@
-# Vote pondéré
+---
+title: Vote pondéré, ou rendre compte de la diversité
+description: Démonstrations de l'utilisation du vote pondéré.
+image_url: https://github.com/cpcoop/animer_ateliers/blob/master/focaliser/ponderation.jpg?raw=true
+---
 
-## En une phrase
+# Vote pondéré
 
 Le vote pondéré regroupe un ensemble de méthodes permettant de prendre en compte la diversité de points de vue. 
 
