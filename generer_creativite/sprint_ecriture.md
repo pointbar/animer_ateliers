@@ -1,8 +1,14 @@
+---
+title: Sprint d'écriture
+description: Le sprint d'écriture est un dispositif qui permet la co-rédaction d'un texte (ou un livre), selon un principe d'unité de temps et de lieu, et avec une méthode d'animation structurée. 
+image_url: https://github.com/cpcoop/animer_ateliers/blob/master/generer_creativite/sprint_ecriture.jpg?raw=true
+---
+
 # Sprint d'écriture
 
 ##En une phrase
 
-le sprint d'écriture est un dispositif qui permet la co-rédaction d'un texte (ou un livre), selon un principe d'unité de temps et de lieu, et avec une méthode d'animation structurée.
+Le sprint d'écriture est un dispositif qui permet la co-rédaction d'un texte (ou un livre), selon un principe d'unité de temps et de lieu, et avec une méthode d'animation structurée.
 
 ![sprint](https://pbs.twimg.com/media/CBBGAKUWoAArGX6.jpg)
 
