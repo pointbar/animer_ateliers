@@ -1,6 +1,10 @@
-# Brainstorming
+---
+title: Règles du brainstorming
+description: Comment réaliser un bon brainstorming?
+image_url: https://github.com/cpcoop/animer_ateliers/blob/master/ouvrir_idees/brainstorming.jpg?raw=true
+---
 
-## En une phrase  
+# Brainstorming
 
 Le Brainstorming est une méthode participative utilisée pour générer des idées, reposant sur la base de la non-retenue ; il en existe des centaines de formes différentes. **[3](#note)**
 
