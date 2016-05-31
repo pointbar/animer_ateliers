@@ -1,3 +1,9 @@
+---
+title: Atelier vignettes
+description: Créer une carte collective en s'inspirant d'images mises à disposition (alliance entre Mind Mapping en groupe et photolangage).
+image_url: https://github.com/cpcoop/animer_ateliers/blob/master/generer_creativite/atelier_vignettes.jpg?raw=true
+---
+
 # Atelier vignettes
 
 > *Ou le plaisir de réfléchir et agir en s'amusant...*
