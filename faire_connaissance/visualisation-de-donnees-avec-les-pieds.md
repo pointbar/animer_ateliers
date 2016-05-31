@@ -1,3 +1,9 @@
+---
+title: La visualisation de données avec les pieds
+description: Faire bouger les participants dans l'espace et les invitation à se positionner les uns par rapport aux autres
+image_url: https://github.com/cpcoop/animer_ateliers/blob/master/faire_connaissance/visualisation_donnes_pieds.jpg?raw=true
+---
+
 # Visualisation de données avec les pieds
 
 ## Jeu d'inclusion, spécial open-data
