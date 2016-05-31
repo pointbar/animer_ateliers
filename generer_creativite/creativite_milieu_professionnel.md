@@ -51,11 +51,11 @@ Par principe, il n'existe pas de définition unique à la créativité. Néanmoi
 
 ## Des règles de base
 
-![creativite_milieu_pro]
-
 * La préparation : une phase cruciale pour créer sereinement et aboutir à un résultat
 * Le temps : chaque phase du processus est chronométrée
 * L'adhésion : chaque participant est tenu informé du déroulement, les engagements sont tenus, chacun se prête au jeu
+
+![creativite_milieu_pro](https://github.com/cpcoop/animer_ateliers/blob/master/generer_creativite/creativite_milieu_pro.png?raw=true)
 
 1. **Connaître, approfondir...** : l'état d'esprit, les attitudes, les perceptions, les attentes, les motivations, les freins, les tendances, l’environnement...
 
