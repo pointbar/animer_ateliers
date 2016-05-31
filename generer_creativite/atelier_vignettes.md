@@ -1,16 +1,25 @@
 # Atelier vignettes
 
-> *Ou le plaisir de réfléchir et agir en s'amusant...*
+> *Ou le plaisir de rÃ©flÃ©chir et agir en s'amusant...*
 
-**Principe :** créer une carte collective en s'inspirant des images mises à disposition (alliance entre Mind Mapping en groupe et photolangage)
-**Matériel :** feuille *paperboard*, feutres, vignettes, gomettes, pâte à fixe
-**Nombre de participants :** 3 à 15 personnes
-**Temps :** 30 à 45 minutes
+**Principe :** crÃ©er une carte collective en s'inspirant des images mises Ã  disposition (alliance entre Mind Mapping en groupe et photolangage)
 
-**Démarche :**
-1. Placer sur une table une grande feuille blanche servant à récolter les idées.
-2. Inscrire la thématique au centre, et éventuellement les branches principales.
-3. Dans chaque coin de table, placer les images servant d'inspiration (préférer des icônes, dessins et illustrations neutres) ainsi que des feutres.
-4. Installer les participants autour de la table, et donner quelques exemples pour impulser la génération d'idées.
-5. Laisser une vingtaine de minutes aux participants pour poser leur vignette dans l'espace appropriée de la carte en indiquant et expliquant leur idée.
-6. Hiérarchiser les différentes idées générées selon l'importance (évaluation individuelle), choisir lesquelles pourront être mises en place à travers un plan d'actions.
+**MatÃ©riel :** feuille *paperboard*, feutres, vignettes, gomettes, pÃ¢te Ã  fixe
+
+**Nombre de participants :** 3 Ã  15 personnes
+
+**Temps :** 30 Ã  45 minutes
+
+**DÃ©marche :**
+
+1. Placer sur une table une grande feuille blanche servant Ã  rÃ©colter les idÃ©es.
+
+2. Inscrire la thÃ©matique au centre, et Ã©ventuellement les branches principales.
+
+3. Dans chaque coin de table, placer les images servant d'inspiration (prÃ©fÃ©rer des icÃ´nes, dessins et illustrations neutres) ainsi que des feutres.
+
+4. Installer les participants autour de la table, et donner quelques exemples pour impulser la gÃ©nÃ©ration d'idÃ©es.
+
+5. Laisser une vingtaine de minutes aux participants pour poser leur vignette dans l'espace appropriÃ©e de la carte en indiquant et expliquant leur idÃ©e.
+
+6. HiÃ©rarchiser les diffÃ©rentes idÃ©es gÃ©nÃ©rÃ©es selon l'importance (Ã©valuation individuelle), choisir lesquelles pourront Ãªtre mises en place Ã  travers un plan d'actions.
