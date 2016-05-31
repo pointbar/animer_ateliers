@@ -1,3 +1,9 @@
+---
+title: La facilitation graphique: introduction
+description: La facilitatrice Julie Boiveau nous introduit la facilitation graphique et comment s'en servir.
+image_url: https://github.com/cpcoop/animer_ateliers/blob/master/representer_visuellement_idees/facilitation_graphique_julie.jpg?raw=true
+---
+
 # C’est quoi la facilitation graphique?
 
 La facilitation graphique est une méthode qui permet d’accompagner un processus de communication. Au lieu de laisser les paroles, les mots, les idées s’échapper dans l’air, le facilitateur graphique les saisit au vol et les transcrit sur du papier.
