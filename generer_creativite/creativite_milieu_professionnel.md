@@ -1,66 +1,64 @@
-# La créativité en milieu professionnel
+# La crÃ©ativitÃ© en milieu professionnel
 
 ## Principes
 
-1. La créativité est un état d'esprit
-* **C :** abolir la Critique, le jugement, oublier le mot "non" !
-* **Q :** viser la Quantité, le nombre, le fourmillement d'idées
-* **F :** aller vers la Fantaisie, l'original, l'insolite, l'inédit
-* **D :** Démultiplier, rebondir sur les idées des uns et des autres, aller plus loin
+* La crÃ©ativitÃ© est un Ã©tat d'esprit
 
-2. Les techniques de créativité ne produisent pas de créativité, mais rendent les gens plus créatifs
+ * **C :** abolir la Critique, le jugement, oublier le mot "non" !
+ * **Q :** viser la QuantitÃ©, le nombre, le fourmillement d'idÃ©es
+ * **F :** aller vers la Fantaisie, l'original, l'insolite, l'inÃ©dit
+ * **D :** DÃ©multiplier, rebondir sur les idÃ©es des uns et des autres, aller plus loin
 
-3. La créativité nécessite une attitude positive : les situations qui nous imposent à changer nos méthodes sont les bienvenues !
+* Les techniques de crÃ©ativitÃ© ne produisent pas de crÃ©ativitÃ©, mais rendent les gens plus crÃ©atifs
 
-## Utilité
+* La crÃ©ativitÃ© nÃ©cessite une attitude positive : les situations qui nous imposent Ã  changer nos mÃ©thodes sont les bienvenues !
 
-La créativité concerne tous les domaines professionnels : art, innovation, industrie, services.
+## UtilitÃ©
 
-Dès que l'on recherche une solution originale à un problème donné, il y a créativité !
+La crÃ©ativitÃ© concerne tous les domaines professionnels : art, innovation, industrie, services.
 
-## Quelques définitions
+DÃ¨s que l'on recherche une solution originale Ã  un problÃ¨me donnÃ©, il y a crÃ©ativitÃ© !
 
-Par principe, il n'existe pas de définition unique à la créativité. Néanmoins, de nombreux chercheurs et consultants se sont penchés sur la question.
+## Quelques dÃ©finitions
 
-* Pour Moles, la créativité est l'aptitude particulière de l'esprit à réarranger d'une façon originale les éléments du champ de conscience
-* Pour Jung, le nouveau dans l'âme individuelle est une recombinaison variée à l'infini de composantes anciennes
-* Pour Gordon, la créativité est le processus qui permet de mettre en parallèle des faits, des connaissances, des disciplines différentes
+Par principe, il n'existe pas de dÃ©finition unique Ã  la crÃ©ativitÃ©. NÃ©anmoins, de nombreux chercheurs et consultants se sont penchÃ©s sur la question.
 
-## Les caractéristiques de l'individu créatif
+* Pour Moles, la crÃ©ativitÃ© est l'aptitude particuliÃ¨re de l'esprit Ã  rÃ©arranger d'une faÃ§on originale les Ã©lÃ©ments du champ de conscience
+* Pour Jung, le nouveau dans l'Ã¢me individuelle est une recombinaison variÃ©e Ã  l'infini de composantes anciennes
+* Pour Gordon, la crÃ©ativitÃ© est le processus qui permet de mettre en parallÃ¨le des faits, des connaissances, des disciplines diffÃ©rentes
 
-* Accueille les nouvelles idées et les situations y compris celles qui sont farfelues ou perturbatrices avec ouverture et curiosité
+## Les caractÃ©ristiques de l'individu crÃ©atif
+
+* Accueille les nouvelles idÃ©es et les situations y compris celles qui sont farfelues ou perturbatrices avec ouverture et curiositÃ©
 * Accepte la critique constructive
-* Sort des sentiers battus : remets en question le cadre établi, les méthodes, les produits, les services, les approches et les modes de fonctionnement en usage
-* Concrétise ses inspirations et ses idées
-* Faire preuve de fluidité et de flexibilité dans la production d’idées, de solutions et de stratégies
-* Joue avec les idées, les concepts et les images
-* Associe, superpose des idées, des concepts et des éléments diversifiés et disparates dans la recherche de solutions et d’innovation
-* Sollicite l’imaginaire et l’intuition de soi-même et des autres dans la recherche de nouvelles idées et solutions
-* Observe les problèmes sous différents angles
-* S’implique dans la résolution de nouveaux problèmes
-* Combine facilement les différentes techniques en créativité
-* Ne s’arrête pas aux premières idées ou aux idées conventionnelles
-* Applique le processus créatif de résolution de problèmes en équipe
+* Sort des sentiers battus : remets en question le cadre Ã©tabli, les mÃ©thodes, les produits, les services, les approches et les modes de fonctionnement en usage
+* ConcrÃ©tise ses inspirations et ses idÃ©es
+* Faire preuve de fluiditÃ© et de flexibilitÃ© dans la production dâ€™idÃ©es, de solutions et de stratÃ©gies
+* Joue avec les idÃ©es, les concepts et les images
+* Associe, superpose des idÃ©es, des concepts et des Ã©lÃ©ments diversifiÃ©s et disparates dans la recherche de solutions et dâ€™innovation
+* Sollicite lâ€™imaginaire et lâ€™intuition de soi-mÃªme et des autres dans la recherche de nouvelles idÃ©es et solutions
+* Observe les problÃ¨mes sous diffÃ©rents angles
+* Sâ€™implique dans la rÃ©solution de nouveaux problÃ¨mes
+* Combine facilement les diffÃ©rentes techniques en crÃ©ativitÃ©
+* Ne sâ€™arrÃªte pas aux premiÃ¨res idÃ©es ou aux idÃ©es conventionnelles
+* Applique le processus crÃ©atif de rÃ©solution de problÃ¨mes en Ã©quipe
 
-## Les profils créatifs
+## Les profils crÃ©atifs
 
-* Le "novateur" : il sait provoquer le changement là où il se trouve, avec un état d'esprit affranchi des normes, capable de sortir de l'inertie et de la routine
-* L' "imaginatif" : de nature poète, proche de sa vie intérieure, il est capable de sortir des sentiers battus et de donner libre cours à son inspiration
-* Le "chercheur" : il explore les domaines qui le passionne, avec une méthodologie rigoureuse et technique, et met tout en oeuvre pour atteindre son but
+* Le "novateur" : il sait provoquer le changement lÃ  oÃ¹ il se trouve, avec un Ã©tat d'esprit affranchi des normes, capable de sortir de l'inertie et de la routine
+* L' "imaginatif" : de nature poÃ¨te, proche de sa vie intÃ©rieure, il est capable de sortir des sentiers battus et de donner libre cours Ã  son inspiration
+* Le "chercheur" : il explore les domaines qui le passionne, avec une mÃ©thodologie rigoureuse et technique, et met tout en oeuvre pour atteindre son but
 
-## Des règles de base
+## Des rÃ¨gles de base
 
 ![creativite_milieu_pro]
 
-* La préparation : une phase cruciale pour créer sereinement et aboutir à un résultat
-* Le temps : chaque phase du processus est chronométrée
-* L'adhésion : chaque participant est tenu informé du déroulement, les engagements sont tenus, chacun se prête au jeu
+* La prÃ©paration : une phase cruciale pour crÃ©er sereinement et aboutir Ã  un rÃ©sultat
+* Le temps : chaque phase du processus est chronomÃ©trÃ©e
+* L'adhÃ©sion : chaque participant est tenu informÃ© du dÃ©roulement, les engagements sont tenus, chacun se prÃªte au jeu
 
-1. **Connaître, approfondir...**
-L'état d'esprit, les attitudes, les perceptions, les attentes, les motivations, les freins, les tendances, l’environnement...
+1. **ConnaÃ®tre, approfondir...** : l'Ã©tat d'esprit, les attitudes, les perceptions, les attentes, les motivations, les freins, les tendances, lâ€™environnement...
 
-2.  **Générer, créer, améliorer… **
-De nouvelles idées, un concept, un produit, un service...
+2. **GÃ©nÃ©rer, crÃ©er, amÃ©liorerâ€¦** : de nouvelles idÃ©es, un concept, un produit, un service...
 
-3.  **Évaluer, mesurer, suivre… **
-Les actions, les résultats, les comportements générés, les publics concernés et impliqués
+3. **Ã‰valuer, mesurer, suivreâ€¦** : les actions, les rÃ©sultats, les comportements gÃ©nÃ©rÃ©s, les publics concernÃ©s et impliquÃ©s.
