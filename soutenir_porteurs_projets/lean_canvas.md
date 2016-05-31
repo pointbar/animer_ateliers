@@ -1,6 +1,10 @@
-#Lean Canvas
+---
+title: Produits innovants, se lancer dans un Lean canvas plutôt qu'un Business plan
+description: Explicitation de la démarche Lean canvas et Running Lean pour accompagner des porteurs de produits innovants
+image_url: https://github.com/cpcoop/animer_ateliers/blob/master/soutenir_porteurs_projets/lean.jpg?raw=true
+---
 
-## En une phrase
+#Lean Canvas
 
 Un Lean canvas permet de valider et de documenter un Business model en une page. **[2](#note)**
 
