@@ -1,7 +1,7 @@
 ---
 title: Forum Ouvert
 description: Explicitation formelle des différentes étapes pour animer un Forum Ouvert
-image_url: https://github.com/cpcoop/animer_ateliers/blob/master/focaliser/forum_ouvert.jpg?raw=true
+image_url: https://github.com/cpcoop/animer_ateliers/blob/master/echanger/forum_ouvert.jpg?raw=true
 ---
 
 # Forum ouvert
