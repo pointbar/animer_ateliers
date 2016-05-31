@@ -1,3 +1,9 @@
+---
+title: La créativité en milieu professionnel
+description: Nos réflexions sur la créativité en milieu professionnel: la comprendre et la favoriser.
+image_url: https://github.com/cpcoop/animer_ateliers/blob/master/generer_creativite/creativite-milieu-professionnel.jpg?raw=true
+---
+
 # La créativité en milieu professionnel
 
 ## Principes
