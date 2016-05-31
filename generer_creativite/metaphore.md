@@ -1,4 +1,10 @@
-# La Métaphore
+---
+title: La méthaphore comme outil créatif
+description: Utiliser une formule imagée pour donner un regard nouveau et distancié à une situation donnée.
+image_url: https://github.com/cpcoop/animer_ateliers/blob/master/generer_creativite/metaphore.jpg?raw=true
+---
+
+# La métaphore
 
 > *La puissance de l'image comparative*
 
