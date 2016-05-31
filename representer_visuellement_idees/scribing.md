@@ -1,3 +1,9 @@
+---
+title: La pratique du Scribing
+description: Récolter les idées et les illustrer sous forme de mind mapping imagé
+image_url: https://github.com/cpcoop/animer_ateliers/blob/master/representer_visuellement_idees/scribing.jpg?raw=true
+---
+
 # Scribing
 
 > *Une image vaut 1000 mots.*
