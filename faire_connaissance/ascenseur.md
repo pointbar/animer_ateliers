@@ -1,3 +1,9 @@
+---
+title: Technique de l'ascenseur
+description: Apprendre à s'écouter et à se connaître en 3 sessions de binômes.
+image_url: https://github.com/cpcoop/animer_ateliers/blob/master/faire_connaissance/ascenceur.jpg?raw=true
+---
+
 # Technique de l'Ascenseur 
 
 ## A quoi ça sert ? 
