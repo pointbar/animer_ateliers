@@ -1,3 +1,9 @@
+---
+title: Ateliers d'écriture créative
+description: Deux ateliers d'écriture collective pour s'échauffer et préparer son esprit à la créativité.
+image_url: https://github.com/cpcoop/animer_ateliers/blob/master/generer_creativite/atelier_ecriture_creative.jpg?raw=true
+---
+
 # Ateliers d'écriture créative
 
 > *Se placer soi-même dans une démarche ludique...*
