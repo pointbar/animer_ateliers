@@ -1,7 +1,11 @@
 ---
 title: Débat mouvant
-description: Un icebreaker intéressant pour rendre visible le positionnement des participants sur une thématique
-image_url: https://github.com/cpcoop/animer_ateliers/blob/master/faire_connaissance/debat_mouvant.jpg?raw=true
+description: >-
+  Un icebreaker intéressant pour rendre visible le positionnement des
+  participants sur une thématique
+image_url: >-
+  https://github.com/cpcoop/animer_ateliers/blob/master/faire_connaissance/debat_mouvant.jpg?raw=true
+published: true
 ---
 
 # Débat mouvant
@@ -74,7 +78,7 @@ Il est possible d'insister, au début du débat, sur le fait de prendre un laps 
 
 ### Sources
 
-<a id="note">
+<a name="note">
 
 * **[1](#note)** [Association Outils Réseaux](http://outils-reseaux.org/DebatMouvant), sous licence Creative Commons BY-SA
 * **[2](#note)** Thomas Wolff, [association Centre des pratiques de la coopération](http://cpcoop.fr), sous licence Creative Commons BY-SA
